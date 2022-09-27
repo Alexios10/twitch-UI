@@ -3,12 +3,12 @@
  
  • Bulit with NextJS
  
+ • Fully responsive 
+ 
  • Used NextAuth web-app authentication to be able to login from
    another existing account.
-   
- • Fully responsive also used lazy
  
- • Loading images with the Image component, statically imported images
+ • Used lazy Loading images with the Image component, statically imported images
    and external URL loaded images and Routing in Nextjs.
  
  
