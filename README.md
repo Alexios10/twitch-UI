@@ -11,6 +11,7 @@
  • Used lazy Loading images with the Image component, statically imported images
    and external URL loaded images and Routing in Nextjs.
  
+ demo : https://twitch-ui.vercel.app/
  
  
  ![twitch](https://user-images.githubusercontent.com/102383362/185799035-648e3fcf-c594-42e6-9cf5-bb9efc936718.png)
