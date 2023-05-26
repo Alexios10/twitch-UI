@@ -12,7 +12,6 @@ Twitch App is a simple web application built with Next.js and Tailwind CSS. It p
 
 ## Technologies Used
 
-- JavaScript
 - React
 - Next.js
 - NextAuth
